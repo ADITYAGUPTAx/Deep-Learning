@@ -1,3 +1,4 @@
 ﻿# Deep-Learning
 
-Basic implementation of deep learning using keras and tensorflow.
+Basic implementation of deep learning using keras and Tensorflow.
+
